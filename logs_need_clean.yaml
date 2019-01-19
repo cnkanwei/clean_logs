@@ -1,0 +1,4 @@
+dirs:
+  - /var/logs
+  - /var/www/html/logs
+time: 604800
